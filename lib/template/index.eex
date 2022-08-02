@@ -1,0 +1,6 @@
+<span><%= a + b %></span>
+<%= for item <- list do %>
+    <p><%= item %></p>
+<% end %>
+
+<h1> Niko </h1> 
