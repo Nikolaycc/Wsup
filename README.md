@@ -2,7 +2,7 @@
 
 **Simple REST API**
 
-## Installation
+## :)
 
 ```elixir
 def Hello do
